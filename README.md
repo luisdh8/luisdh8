@@ -3,7 +3,7 @@
 # 💫 About Me:
 I’m a passionate software developer and peer mentor, committed to building innovative solutions, embracing new challenges, and supporting others along the way. Here’s a bit more about me:
 - 👨🏻‍🎓 Currently pursuing a degree in Computer Science Engineering (started in 2023)
-- 📹 Creator of the YouTube channel kiburld, where I share tech content
+- 📹 Creator of the YouTube channel [_kiburld_](https://www.youtube.com/@kiburld), where I share tech content
 - 🏎️ Formula 1 enthusiast – always inspired by the speed, strategy, and innovation behind the sport
 - 🌟 Hackathon Enthusiast: I’ve participated in multiple hackathons, building projects like AI-powered habit trackers and smart home systems—proving my ability to think fast, adapt, and innovate
 - 🤝 Team Player: I love collaborating on meaningful projects—whether it's contributing to open source, solving coding challenges, or brainstorming creative solutions
